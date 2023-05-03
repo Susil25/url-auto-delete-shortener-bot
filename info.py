@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
-DOWNLOAD_TEXT_URL = "https://omegalinks.in/ref/GreyMatter6458"
+DOWNLOAD_TEXT_URL = "https://t.me/Susil_How_to_Download"
 
    # Custom Caption Under Button #
-CAPTION_BUTTON = "JOIN"
-https://t.me/Susil_movies"
+CAPTION_BUTTON = "JOIN OUR CHANNEL"
+CAPTION_BUTTON_URL = "https://t.me/Susil_movies"
 
    # Auto Delete For Bot Sending Files #
